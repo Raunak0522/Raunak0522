@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
 
 <h1 align="center">Hi 👋, I'm Raunak Verma</h1>
 <h3 align="center">A web development enthusiastic from India</h3>
